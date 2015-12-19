@@ -1,0 +1,13 @@
+{
+	"full_name": "Brian Stinson",
+	"email": "brian@bstinson.com",
+	"github_username": "bstinsonmhk",
+	"project_name": "Python Boilerplate",
+    "project_repo": "{{ cookiecutter.project_name.lower().replace('python ','python-') }}",
+    "project_module": "{{ cookiecutter.project_name.lower().replace('python ','') }}",
+	"project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
+	"release_date": "2015-12-19",
+	"pypi_username": "bstinson",
+	"year": "2015",
+	"version": "0.1.0",
+}
